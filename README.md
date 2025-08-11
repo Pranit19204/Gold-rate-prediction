@@ -1,1 +1,2 @@
-Gold Rate Prediction using Machine Learning – Built a predictive model using Python to forecast gold prices based on historical market data. Performed data preprocessing, feature selection, and applied regression algorithms to achieve accurate predictions. Visualized trends using Matplotlib/Seaborn and optimized the model for better performance.
+Built a predictive ML pipeline for gold price forecasting: data cleaning, EDA, feature selection, and model tuning.
+Trained multiple regressors (Random Forest selected) and deployed the final model via Streamlit — achieved high accuracy (R² ≈ 0.98).
